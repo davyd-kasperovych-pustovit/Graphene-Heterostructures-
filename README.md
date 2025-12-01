@@ -10,11 +10,9 @@ This repository documents the fabrication and optimization of van der Waals hete
 
 The current focus is on developing reproducible stacking techniques for three-layer (hBN–graphene–hBN) and four-layer (graphite–hBN–graphene–hBN) structures. The goal is to establish a reliable fabrication pipeline with high yield and clean interfaces suitable for low-temperature quantum measurements.
 
-**Results**
+**Results - 12/2025**
 
-Operational Stacks: 2 (one three-layer, one four-layer)
-
-Goal: 20 reproducible stacks by end of 2025
+Operational Stacks: 4 
 
 **Future Work**
 
